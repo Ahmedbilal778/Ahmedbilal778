@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Ahmed Bilal 👋
 
-<!--
-**Ahmedbilal778/Ahmedbilal778** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Python & Django Developer | Computer Science Student
 
-Here are some ideas to get you started:
+I build clean, scalable and user-focused web applications using Python, Django, SQL and modern web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- Python
+- Django
+- SQL
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- Git & GitHub
+
+## 🚀 Featured Projects
+
+- **AI Customer Support Chatboard**
+- **Todo Manager**
+- **Gym Workout & Diet Plan**
+
+## 🌐 Portfolio
+
+[Visit My Portfolio](https://ahmed-bilal-portfolio.onrender.com)
+
+## 📫 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/ahmed-bilal-0a362a37/)
+- [GitHub](https://github.com/Ahmedbilal778)
+- Email: nagorib588@gmail.com
